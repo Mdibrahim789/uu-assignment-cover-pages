@@ -19,7 +19,7 @@ Printable assignment cover pages for **Uttara University** students — made **u
 - **Designation-specific covers** — Lecturer, Senior Lecturer, Associate Professor
 - **Assignment 1, 4, 5, 6, 7, 8** — generic numbered designs
 
-All "Department of Mathematics" labels have been replaced with blank lines (`Department of ______`), so the same cover works for EEE, CSE, Mathematics, or any other department.
+All "Department of Mathematics" labels have been removed, leaving blank space to write in any department name — so the same cover works for EEE, CSE, Mathematics, or any other department. The "Course titel" typo is also fixed to "Course title".
 
 ## Credit
 
